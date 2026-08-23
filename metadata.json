@@ -1,0 +1,8 @@
+{
+  "name": "Remix FLOW | حلول البالتات والتوريدات الصناعية",
+  "description": "الموقع الرسمي لشركة FLOW لحلول البالتات الخشبية والبلاستيكية والمواصفات المخصصة والتوريدات الصناعية في مصر",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
